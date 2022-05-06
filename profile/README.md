@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/profile/logo.png" align="center" width="200" style="border-radius: 50%;">
+    <img src="/profile/logo.png" align="center" width="100px" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">NGuard Securities 🚀</h1>
